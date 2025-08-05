@@ -53,7 +53,7 @@ Each model is implemented using a Jupyter notebook and evaluated on classificati
 
 ## 👩‍💻 Author
 
-**Sai Vennela Jagadeesh**  
+**Sai Vennela Yadavalli**  
 *AI/ML Enthusiast & Project Developer*  
 [LinkedIn Profile](https://www.linkedin.com/in/sai-vennela-yadavalli-8b854432a/)
 
